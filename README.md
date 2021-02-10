@@ -1,11 +1,11 @@
-# Text to Speech Video Sample
+# Text to Speech Engine
 
-This is the sample project from my Text-to-Speech tutorial on YouTube. The included dictionary is from the Carnegie Mellon University Computer Science Department, although I removed a version of "deja" that contained non-ASCII characters which would raise an error (There is a way to properly handle it though). Additionally, not all the speech sounds have been included.
+I created this after watching this video: https://www.youtube.com/watch?v=KSSsVhoR7FQ
 
-Video: https://www.youtube.com/watch?v=KSSsVhoR7FQ
+## Pronouncing dictionary 
 
 CMU Source: http://www.speech.cs.cmu.edu/cgi-bin/cmudict
 
-See my official dev guide for detailed instructions: http://arcompware.com/python-basic-text-to-speech-engine/
+## What do I need? 
 
-US English speakers, this is your opportunity to be your own TTS so try recording your own sounds!
+a little bit of help to improve the quality of my TTS engine :)
