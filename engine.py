@@ -18,7 +18,7 @@ stream = p.open(format=p.get_format_from_width(wf.getsampwidth()), channels=wf.g
 
 data = wf.readframes(CHUNK)
 
-while data != '':
+while data != b'':
     stream.write(data)
     data = wf.readframes(CHUNK)
 
